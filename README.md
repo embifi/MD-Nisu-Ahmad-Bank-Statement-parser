@@ -1,13 +1,13 @@
- #BANK_DATA_PARSER 
+ # BANK_DATA_PARSER 
 - this app takes pdf of bank and convert into text and rendered to front End 
-#Features
+## Features
 - Easy to use 
 - Upload file and See Your data in table 
-#Project Setup
+## Project Setup
 - ejs 
 - express
 - pdf-parser
-#our inedx file
+## our inedx file
 - Use Router and Controler To handle this app
 - We use pdf-parsed data to frontEnd wisely Witout using any database
 - Just use from and send file to server and all the data manuplate by searver 
